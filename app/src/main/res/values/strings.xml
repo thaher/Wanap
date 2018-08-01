@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wanap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="swipe_text">Swipe in any Direction</string>
+    <string name="title_activity_reports">MESSAGE RECIEVED</string>
+</resources>

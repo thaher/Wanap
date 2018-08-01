@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354559558013",
+    "firebase_url": "https://wanap-303d2.firebaseio.com",
+    "project_id": "wanap-303d2",
+    "storage_bucket": "wanap-303d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354559558013:android:c9385693e0282d67",
+        "android_client_info": {
+          "package_name": "labs.bridge.wanap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354559558013-75mhf8que1kv06si6m2el4jq4r8v9ue7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "labs.bridge.wanap",
+            "certificate_hash": "0cbd445084cb65ad1189ba0f69d865780dacbea4"
+          }
+        },
+        {
+          "client_id": "354559558013-4khjmegen7qbm1ju0dadblpsqtaa2dm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09NQr74gbOCk3Sv3_xshotpCPY0Dfwio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354559558013-4khjmegen7qbm1ju0dadblpsqtaa2dm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
